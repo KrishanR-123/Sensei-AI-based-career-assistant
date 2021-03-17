@@ -26,4 +26,4 @@ as python is completely object oriented and offers varity of librabies and packa
 
 ### Uptill now Sensei looks something like this
 ![Output 1](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/1.jpg)
-![Output 2](https://drive.google.com/file/d/1DdLt7e-vOkLJDOlJoF988AftEs_T4XhY/view?usp=sharing)
+![Output 2](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/2.jpg)
