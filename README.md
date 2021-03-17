@@ -10,4 +10,20 @@ Sensei will guide students down the right path.
 
 ⭐ Star us on GitHub — it helps!
 
+# Objectives:
+To create a AI based career assistant which help students choose branch and college for engineering. 
 
+# Methodology:
+We will make our project using **agile methodologies** following *agile values* and *principals*. 
+Agile project management is a methodology that is commonly used to deliver complex projects due to its adaptiveness. It emphasizes collaboration, flexibility, continuous improvement, and high quality results. 
+The Agile Manifesto is comprised of four foundational values and 12 supporting principles which lead the Agile approach to software development.
+
+![Agile image](https://devcom.com/wp-content/uploads/2019/08/methodology-agile.png)
+
+
+## Language used is Python
+as python is completely object oriented and offers varity of librabies and packages to do advance tasks like tokenizing and lemmatizing
+
+###Uptill now Sensei looks something like this
+![Output 1](https://drive.google.com/file/d/1HvDej3osPvXnwwwYw4vHJMMd7cHFdvf2/view?usp=sharing)
+![Output 2](https://drive.google.com/file/d/1DdLt7e-vOkLJDOlJoF988AftEs_T4XhY/view?usp=sharing)
