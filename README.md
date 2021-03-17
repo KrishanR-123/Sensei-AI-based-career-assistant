@@ -25,5 +25,5 @@ The Agile Manifesto is comprised of four foundational values and 12 supporting p
 as python is completely object oriented and offers varity of librabies and packages to do advance tasks like tokenizing and lemmatizing
 
 ### Uptill now Sensei looks something like this
-![Output 1](https://drive.google.com/file/d/1HvDej3osPvXnwwwYw4vHJMMd7cHFdvf2/view?usp=sharing)
+![Output 1](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/1.jpg)
 ![Output 2](https://drive.google.com/file/d/1DdLt7e-vOkLJDOlJoF988AftEs_T4XhY/view?usp=sharing)
