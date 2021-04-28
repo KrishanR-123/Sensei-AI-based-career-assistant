@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+	<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR IN CCVT</pattern>
+      <template>
+		<random>
+			<li>Adobe offered a package of 20 LPA last year</li>
+			<li>The highest package of 20 LPA was offered by Adobe last year</li>
+			<li>Maximum package of last year was 20 LPA which was offered by Adobe</li>
+		</random>
+	  </template>
+    </category>
+
+<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR IN BAO</pattern>
+      <template>
+		<random>
+			<li>Infosys offered a package of 25 LPA last year</li>
+			<li>The highest package of 25 LPA was offered by Infosys last year</li>
+			<li>Maximum package of last year was 25 LPA which was offered by Infosys</li>
+		</random>
+	  </template>
+    </category>
+
+
+
+
+<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR IN IOT</pattern>
+      <template>
+		<random>
+			<li>IBM offered a package of 20 LPA last year</li>
+			<li>The highest package of 20 LPA was offered by IBM last year</li>
+			<li>Maximum package of last year was 20 LPA which was offered by IBM</li>
+		</random>
+	  </template>
+    </category>
+
+
+<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR IN GG</pattern>
+      <template>
+		<random>
+			<li>ROCKSTAR offered a package of 45 LPA last year</li>
+			<li>The highest package of 45 LPA was offered by ROCKSTAR last year</li>
+			<li>Maximum package of last year was 45 LPA which was offered by ROCKSTAR</li>
+		</random>
+	  </template>
+    </category>
+
+<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR IN DEVOPS</pattern>
+      <template>
+		<random>
+			<li>XEBIA offered a package of 35 LPA last year</li>
+			<li>The highest package of 35 LPA was offered by XEBIA last year</li>
+			<li>Maximum package of last year was 35 LPA which was offered by XEBIA</li>
+		</random>
+	  </template>
+    </category>
+
+
+<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR IN AIML</pattern>
+      <template>
+		<random>
+			<li>ITC INFOTECH offered a package of 35 LPA last year</li>
+			<li>The highest package of 35 LPA was offered by ITC INFOTECH last year</li>
+			<li>Maximum package of last year was 35 LPA which was offered by ITC INFOTECH</li>
+		</random>
+	  </template>
+    </category>
+
+
+	<category>
+      <pattern>AVERAGE PLACEMENT RATE</pattern>
+      <template>
+		<random>
+			<li>BTech in UPES has an average of 80% placement</li>
+			<li>Average placement of last 10 years is around 80%</li>
+			<li>BTech has consistently achieved an average of around 80% placement for the last 10 years</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>2020 PLACEMENTS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the placement of 2020 batch from UPES : https://www.shiksha.com/university/university-of-petroleum-and-energy-studies-dehradun-30663/placement</li>
+			<li>Please goto this link to view the placement of 2020 batch from UPES: https://www.shiksha.com/university/university-of-petroleum-and-energy-studies-dehradun-30663/placement</li>
+			<li>Have a look over here to know more about the placement of 2020 batch from UPES: https://www.shiksha.com/university/university-of-petroleum-and-energy-studies-dehradun-30663/placement</li>
+		</random>
+	  </template>
+    </category>
+	
+	
+	
+	</aiml>
+	
+	

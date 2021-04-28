@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<category>
+      <pattern>NRI</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of NRI Admission Procedure : https://www.upes.ac.in/upes-international-admissions</li>
+			<li>Please goto this link to view the details of NRI Admission Procedure : https://www.upes.ac.in/upes-international-admissions</li>
+			<li>Have a look over here to view the details of NRI Admission Procedure : https://www.upes.ac.in/upes-international-admissions</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FIRST YEAR BTECH ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the guidelines of First Year BE Admissions : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrfN6eWvMhs_vAAxJuVawWg-7rPAUMGKPhrjsUkiJtGhRlLOqFq8xHwaAkk4EALw_wcB</li>
+			<li>Please goto this link to view the guidelines of First Year BE Admissions : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrfN6eWvMhs_vAAxJuVawWg-7rPAUMGKPhrjsUkiJtGhRlLOqFq8xHwaAkk4EALw_wcB</li>
+			<li>Have a look over here to view the guidelines of First Year BE Admissions : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrfN6eWvMhs_vAAxJuVawWg-7rPAUMGKPhrjsUkiJtGhRlLOqFq8xHwaAkk4EALw_wcB</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>ELIGIBILITY ADMISSION FIRST YEAR B.TECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the eligibility criteria to First Year BTECH Admissions : </li>
+			<li>Please goto this link to view the eligibility criteria to First Year BTECH Admissions : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrfN6eWvMhs_vAAxJuVawWg-7rPAUMGKPhrjsUkiJtGhRlLOqFq8xHwaAkk4EALw_wcB</li>
+			<li>Have a look over here to view the eligibility criteria to First Year BTECH Admissions : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrfN6eWvMhs_vAAxJuVawWg-7rPAUMGKPhrjsUkiJtGhRlLOqFq8xHwaAkk4EALw_wcB</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION FIRST YEAR BTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  First Year BTECH Admissions : https://www.upes.ac.in/aspiring-students</li>
+			<li>Please goto this link to view the seat distribution for First Year BTECH Admissions : https://www.upes.ac.in/aspiring-students</li>
+			<li>Have a look over here to view the seat distribution for First Year BTECH Admissions : https://www.upes.ac.in/aspiring-students</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS ADMISSION FIRST YEAR BTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for  First Year BTECH Admissions : https://www.upes.ac.in/aspiring-students</li>
+			<li>Please goto this link to view the documents required for First Year BTECH Admissions : https://www.upes.ac.in/aspiring-students</li>
+			<li>Have a look over here to view the documents required for First Year BTECH Admissions : https://www.upes.ac.in/aspiring-students</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE FIRST YEAR BTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for  First Year BTECH Admissions : https://www.upes.ac.in/fee-structure</li>
+			<li>Please goto this link to view the fee structure required for First Year BTECH Admissions : https://www.upes.ac.in/fee-structure</li>
+			<li>Have a look over here to view the fee structure for First Year BTECH Admissions : https://www.upes.ac.in/fee-structure</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ELIGIBILITY ADMISSION DIRECT SECOND YEAR BTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the eligibility criteria to Direct Second Year BTECH Admissions : https://www.upes.ac.in/students-lateral-entry-policy-for-engg-technology</li>
+			<li>Please goto this link to view the eligibility criteria to Direct Second Year BTECH Admissions : https://www.upes.ac.in/students-lateral-entry-policy-for-engg-technology</li>
+			<li>Have a look over here to view the eligibility criteria to Direct Second Year BTECH Admissions : https://www.upes.ac.in/students-lateral-entry-policy-for-engg-technology</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+	<pattern>ELIGIBILITY CRITERIA ADMISSION MTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the eligibility criteria to M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Please goto this link to view the eligibility criteria to M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Have a look over here to view the eligibility criteria to M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION MTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Please goto this link to view the seat distribution for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Have a look over here to view the seat distribution for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS ADMISSION MTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Please goto this link to view the documents required for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Have a look over here to view the documents required for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE MTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Please goto this link to view the fee structure required for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+			<li>Have a look over here to view the fee structure for M.Tech Admissions : https://www.upes.ac.in/mtech-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ELIGIBILITY ADMISSION MCA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the eligibility criteria to MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+			<li>Please goto this link to view the eligibility criteria to MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+			<li>Have a look over here to view the eligibility criteria to MCA Admissions :https://www.upes.ac.in/mca-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION MCA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+			<li>Please goto this link to view the seat distribution for MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+			<li>Have a look over here to view the seat distribution for MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS REQUIRED ADMISSION MCA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+			<li>Please goto this link to view the documents required for MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+			<li>Have a look over here to view the documents required for MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE MCA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for MCA Admissions :https://www.upes.ac.in/mca-admission</li>
+			<li>Please goto this link to view the fee structure required for MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+			<li>Have a look over here to view the fee structure for MCA Admissions : https://www.upes.ac.in/mca-admission</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCTORAL PROGRAMMES</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the Doctoral Programmes offered : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Please goto this link to view the Doctoral Programmes offered : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Have a look over here to view the Doctoral Programmes offered : https://www.upes.ac.in/schools/doctoral-courses</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PHD SUPERVISORS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the list of PhD supervisors : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Please goto this link to view the list of PhD supervisors : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Have a look over here to view the list of PhD supervisors : https://www.upes.ac.in/schools/doctoral-courses</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PHD SCHOLARS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the list of PhD scholars: https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Please goto this link to view the list of PhD scholars : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Have a look over here to view the list of PhD scholars : https://www.upes.ac.in/schools/doctoral-courses</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PHD GUIDELINES</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the PhD programme guidelines: https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Please goto this link to view the PhD programme guidelines : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Have a look over here to view the PhD programme guidelines : https://www.upes.ac.in/schools/doctoral-courses</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>UNIVERSITY ORDINANCES</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the university ordinances : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Please goto this link to view the university ordinances : https://www.upes.ac.in/schools/doctoral-courses</li>
+			<li>Have a look over here to view the university ordinances : https://www.upes.ac.in/schools/doctoral-courses</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION NOTIFICATION</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the admission notifications : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrc1zX-aJQbF4lfmrfhaLPuxPQ4hOYg2D69BUw_HJl6v_FXkKQ99mGAaAqhcEALw_wcB</li>
+			<li>Please goto this link to view the admission notifications : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrc1zX-aJQbF4lfmrfhaLPuxPQ4hOYg2D69BUw_HJl6v_FXkKQ99mGAaAqhcEALw_wcB</li>
+			<li>Have a look over here to view the admission notifications : https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_sutm_medium=cpcutm_campaign=UPES_PL_Brand_S_2021gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrc1zX-aJQbF4lfmrfhaLPuxPQ4hOYg2D69BUw_HJl6v_FXkKQ99mGAaAqhcEALw_wcB</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>RESEARCH DEVRLOPMENT CELL</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details regarding Research and Development Cell: https://research.upes.ac.in/</li>
+			<li>Please goto this link to view the details regarding Research and Development Cell : https://research.upes.ac.in/</li>
+			<li>Have a look over here to view the details regarding Research and Development Cell : https://research.upes.ac.in/</li>
+		</random>
+	  </template>
+    </category>
+	</aiml>

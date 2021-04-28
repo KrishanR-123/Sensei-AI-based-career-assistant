@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+   
+<category>
+    <pattern>What are the different courses available in UPES</pattern>
+    <template> Courses available in UPES consists of UG programmes. Refer to Link: https://www.upes.ac.in/schools/school-of-computer-science
+</template>
+    </category>      
+<category>
+    <pattern>What is the Syllabus of Btech IOT </pattern>
+    <template> To know more about the syllabus of CSE-IOT refer to
+    Link: https://www.upes.ac.in/course/btech-hons-computer-science-and-engineering-internet-of-things-and-smart-cities
+</template>
+</category>
+   <category>
+    <pattern>What is the Syllabus of Btech AIML </pattern>
+    <template> To know more about the syllabus of CSE-AIML refer to
+    Link: https://www.upes.ac.in/course/b-tech-hons-computer-science-and-engineering-in-artificial-intelligence-and-machine-learning
+</template>
+</category>
+<category>
+    <pattern>What is the Syllabus of Btech DevOps </pattern>
+    <template> To know more about the syllabus of CSE-DevOPS refer to
+    Link: https://www.upes.ac.in/course/btech-hons-computer-science-and-engineering-devops
+</template>
+</category>
+<category>
+    <pattern>What is the Syllabus of Btech CCVT </pattern>
+    <template> To know more about the syllabus of CSE-CCVT refer to
+    Link: https://www.upes.ac.in/course/btech-hons-computer-science-and-engineering-cloud-computing-and-virtualization-technology
+</template>
+</category>
+<category>
+    <pattern>What is the Syllabus of Btech BAO </pattern>
+    <template> To know more about the syllabus of CSE-BAO refer to
+    Link: https://www.upes.ac.in/course/btech-hons-computer-science-and-engineering-business-analytics-and-optimization
+</template>
+</category>
+<category>
+    <pattern>What is the Syllabus of Btech GG </pattern>
+    <template> To know more about the syllabus of CSE-GG refer to
+    Link: https://www.upes.ac.in/course/btech-hons-computer-science-and-engineering-graphics-and-gaming
+</template>
+</category>
+</aiml>

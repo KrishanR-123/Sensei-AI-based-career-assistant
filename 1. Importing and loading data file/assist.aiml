@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+<pattern>Suggest me some colleges for comp sci</pattern>
+<template>UPES(University of Petroleum and Engineering Studies), Dehradun</template>
+</category>
+
+<category>
+<pattern>Suggest me some colleges for computer science</pattern>
+<template>UPES(University of Petroleum and Engineering Studies), Dehradun</template>
+</category>
+
+<category>
+<pattern>Suggest me some colleges for cs</pattern>
+<template>UPES(University of Petroleum and Engineering Studies), Dehradun</template>
+</category>
+
+<category>
+<pattern>suggest me some colleges for devops</pattern>
+<template>
+(1)UPES(University of Petroleum and Engineering Studies), Dehradun
+(2)TIET (Thapar Institute of Engineering And Technology), Patiala, Punjab
+(3)SRM Institute of Science and Technology, Ghaziabad
+(4)IIT
+</template>
+</category>
+
+<category>
+<pattern>suggest me some colleges for iot</pattern>
+<template>
+<random>
+<li>UPES(University of Petroleum and Engineering Studies), Dehradun</li>
+<li>THAPAR</li>
+<li>MIT</li>
+<li>IIT</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>Suggest me some colleges for ccvt</pattern>
+<template>
+<random>
+<li>UPES(University of Petroleum and Engineering Studies), Dehradun</li>
+<li>JK Laksmipat University</li>
+<li>Chandigarh University</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>suggest me some colleges for graphics and gaming</pattern> 
+<template>
+<random>
+<li>UPES(University of Petroleum and Engineering Studies)</li>
+<li>LPU(Lovely Professional University)</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>suggest me some colleges for aiml</pattern>
+<template>
+(1)UPES(University of Petroleum and Engineering Studies), Dehradun
+(2)SRM Institute of Science and Technology, Sonepat
+(3)IIT(Indian Institute of Technology) Bombay, Mumbai
+(4)LPU(Lovely Professional University), Jalandhar
+(5)Chandigarh University, Chandigarh
+</template>
+</category>
+
+<category>
+<pattern>top 5 colleges for Computer Science</pattern>
+<template>
+(1)IIT(Indian Institute of Technology) Bombay, Mumbai
+(2)IIT(Indian Institute of Technology) Delhi, Delhi
+(3)Vellore Institute of Technology, Vellore
+(4)IIT(Indian Institute of Technology) Madras, Madras
+(5)IIT(Indian Institute of Technology) Roorkee, Roorkee
+</template>
+</category>
+
+<category>
+<pattern>top 5 colleges for cs</pattern>
+<template>
+(1)IIT(Indian Institute of Technology) Bombay, Mumbai
+(2)IIT(Indian Institute of Technology) Delhi, Delhi
+(3)Vellore Institute of Technology, Vellore
+(4)IIT(Indian Institute of Technology) Madras, Madras
+(5)IIT(Indian Institute of Technology) Roorkee, Roorkee
+</template>
+</category>
+
+<category>
+<pattern>top 5 colleges for c s</pattern>
+<template>
+(1)IIT(Indian Institute of Technology) Bombay, Mumbai
+(2)IIT(Indian Institute of Technology) Delhi, Delhi
+(3)Vellore Institute of Technology, Vellore
+(4)IIT(Indian Institute of Technology) Madras, Madras
+(5)IIT(Indian Institute of Technology) Roorkee, Roorkee
+</template>
+</category>
+
+<category>
+<pattern>top 10 colleges for Comp Sci</pattern>
+<template>
+(1)IIT(Indian Institute of Technology) Bombay, Mumbai
+(2)IIT(Indian Institute of Technology) Delhi, Delhi
+(3)Vellore Institute of Technology, Vellore
+(4)IIT(Indian Institute of Technology) Madras, Madras
+(5)IIT(Indian Institute of Technology) Roorkee, Roorkee
+</template>
+</category>
+
+<category>
+<pattern>Which iit is best</pattern>
+<template>
+IIT(Indian Institute of Technology) Bombay, Mumbai
+</template>
+</category>
+
+<category>
+<pattern>Which course is best in UPES</pattern>
+<template>
+Artificial Intelligence and Machine Learning.
+</template>
+</category>
+
+<category>
+<pattern>suggest me some colleges for *</pattern>
+<template>
+Sorry I don't know about <star/>
+</template>
+</category>
+
+<category>
+<pattern>how are *</pattern>
+<template>
+Sorry I don't know about <star/>
+</template>
+</category>
+
+<category>
+<pattern>What is *</pattern>
+<template>
+Sorry I don't know about <star/>
+</template>
+</category>
+
+<category>
+<pattern>Cool</pattern>
+<template>
+Cool
+</template>
+</category>
+
+<category>
+<pattern>Who made you</pattern>
+<template>
+A team of programmers.
+</template>
+</category>
+
+<category>
+<pattern>how are you</pattern>
+<template>
+<random>
+<li>I'm good.</li>
+<li>Fine, and You?</li>
+<li>pretty good.</li>
+<li>I'm well.</li>
+<li>I'm good, what about you?.</li></random>
+</template>
+</category>
+
+<category>
+<pattern>Who are you</pattern>
+<template>
+I am Sensei, your career guidance assistant. I was made by a team as their project. I hope I answer all your querries.
+</template>
+</category>
+
+<category>
+<pattern>Ok</pattern>
+<template>
+I am glad you are satisfied.
+</template>
+</category>
+
+<category>
+<pattern>Do you know about *</pattern>
+<template>
+Sorry I don't know about <star/>
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<template>
+Sorry I don't know about <star/>
+</template>
+</category>
+
+<category>
+<pattern>ARE YOU ARTIFICIAL INTELLIGENCE</pattern>
+<template>Yes I sure am.</template>
+</category>
+
+<category>
+<pattern>ARE YOU ARTIFICIAL *</pattern>
+<template>Yes I am the world's most intelligent robot.</template>
+</category>
+
+<category>
+<pattern>About UPES</pattern>
+<template>17 Years of experience in nurturing students into leaders. 
+150 + specialized programs aimed at making specialists. 
+Unmatched global exposure with free 4-week study program in Berlin or Vancouver. 
+Free access to 3900+ global courses from top institutes with Coursera. 
+94% placement* record. 
+Industry alliances with IBM, Microsoft, Xebia, L and T, Tata Power, CISCO and more, offering placements and industry expertise. 
+Unique Alumni Offerings with placement support up to 5 years, funding and workspace support. 
+First Indian University to be awarded QS 5 Stars for Academic Development and also rated 5 Stars for Employability, Facilities and Program Strength. </template>
+</category>
+
+<category>
+<pattern>About thapar</pattern>
+<template>
+Thapar Institute of Engineering and Technology here on 19 January 2018, Friday signed a comprehensive institutional agreement with Israel"s Tel Aviv University (TAU), covering research, teaching and student exchange between both institutions.
+Both of them have agreed to establish a programme for academic cooperation, bring benefits of credit transfer programmes in engineering and life sciences and participation in the israeli varsity"s summer programmes, post-doctoral fellowships and semester exchange opportunities.
+</template>
+</category>
+
+<category>
+<pattern>About iit Delhi</pattern>
+<template>
+Indian Institute of Technology Delhi is one of the 23 IITs created to be Centres of Excellence for training, research and development in science, engineering and technology in India. 
+Established as College of Engineering in 1961, the Institute was later declared as an Institution of National Importance under the “Institutes of Technology (Amendment) Act, 1963” and was renamed as “Indian Institute of Technology Delhi”. It was then accorded the status of a Deemed University with powers to decide its own academic policy, to conduct its own examinations, and to award its own degrees. 
+Since its inception, over 48000 have graduated from IIT Delhi in various disciplines including Engineering, Physical Sciences, Management and Humanities and Social Sciences. Of these, nearly 5070 received Ph.D. degrees. The number of students who graduated with B.Tech. degree is over 15738. The rest obtained Master’s Degree in Engineering, Sciences and Business Administration. These alumni today work as scientists, technologists, business managers and entrepreneurs. There are several alumni who have moved away from their original disciplines and have taken to administrative services, active politics or are with NGOs. In doing so, they have contributed significantly to building of this nation, and to industrialization around the world.
+</template>
+</category>
+
+<category>
+<pattern>About iit Bombay</pattern>
+<template>
+Established in 1958, the second of its kind, IIT Bombay was the first to be set up with foreign assistance. The funds from UNESCO came as Roubles from the then Soviet Union. In 1961 Parliament decreed the  IITs as  ‘Institutes of National Importance'. Since then, IITB has grown from strength to strength to emerge as one of the top technical universities in the world. 
+The institute is recognised worldwide as a leader in the field of engineering education and research. Reputed for the outstanding calibre of students graduating from its undergraduate and postgraduate programmes, the institute attracts the best students from the country for its bachelor's, master's and doctoral programmes. Research and academic programmes at IIT Bombay are driven by an outstanding faculty, many of whom are reputed for their research contributions internationally.
+</template>
+</category>
+
+<category>
+<pattern>About LPU</pattern>
+<template>
+Lovely Professional University's commitment to teaching excellence and providing highest quality education to its students has once again brought laurels. The Ministry of Human Resource Department, Government of India has released NIRF Ranking 2020 and LPU appears in Top 100 in its most crucial Overall category, which includes IITs and Central Universities. LPU is also ranked 78th in the list of all the government and private universities of the country. University’s Engineering School is in the Top 100, Management School in the Top 50, and Pharmacy School in the Top 30 institutions of India.
+</template>
+</category>
+
+<category>
+<pattern>About VIT</pattern>
+<template>
+VIT was established with the aim of providing quality higher education on par with international standards. It persistently seeks and adopts innovative methods to improve the quality of higher education on a consistent basis.The campus has a cosmopolitan atmosphere with students from all corners of the globe. Experienced and learned teachers are strongly encouraged to nurture the students. The global standards set at VIT in the field of teaching and research spur us on in our relentless pursuit of excellence. In fact, it has become a way of life for us. The highly motivated youngsters on the campus are a constant source of pride. Our Memoranda of Understanding with various international universities are our major strength. They provide for an exchange of students and faculty and encourage joint research projects for the mutual benefit of these universities. Many of our students, who pursue their research projects in foreign universities, bring high quality to their work and esteem to India and have done us proud. With steady steps, we continue our march forward. We look forward to meeting you here at VIT.
+</template>
+</category>
+
+<category>
+      <pattern>Tell me about *</pattern>
+      <template>
+         <srai>About <star/></srai>
+         <srai><star/></srai>
+      </template>
+</category>
+
+<category>
+<pattern>what courses are available in UPES</pattern>
+<template>
+(1)B.Tech(Hons) Computer Science and Engineering- Artificial Intelligence and Machine Learning. 
+(2)B.Tech(Hons) Computer Science and Engineering- Banking, Financial Services and Insurance. 
+(3)B.Tech(Hons) Computer Science and Engineering- Big Data.
+(4)B.Tech(Hons) Computer Science and Engineering- Blockchain Technology. 
+(5)B.Tech(Hons) Computer Science and Engineering- Business Analytics and Optimization. 
+(6)B.Tech(Hons) Computer Science and Engineering- Cloud Computing and Virtualization Technology.
+(7)B.Tech(Hons) Computer Science and Engineering- Computational Sustainability.                                              
+(8)B.Tech(Hons) Computer Science and Engineering- Cyber Security and Forensics
+(9)B.Tech(Hons) Computer Science and Engineering- DevOps. 
+</template>
+</category>
+
+<category>
+<pattern>what courses are available in UPES</pattern>
+<template>
+(1)B.Tech(Hons) Computer Science and Engineering- Artificial Intelligence and Machine Learning. 
+(2)B.Tech(Hons) Computer Science and Engineering- Banking, Financial Services and Insurance. 
+(3)B.Tech(Hons) Computer Science and Engineering- Big Data.
+(4)B.Tech(Hons) Computer Science and Engineering- Blockchain Technology. 
+(5)B.Tech(Hons) Computer Science and Engineering- Business Analytics and Optimization. 
+(6)B.Tech(Hons) Computer Science and Engineering- Cloud Computing and Virtualization Technology.
+(7)B.Tech(Hons) Computer Science and Engineering- Computational Sustainability.                                              
+(8)B.Tech(Hons) Computer Science and Engineering- Cyber Security and Forensics
+(9)B.Tech(Hons) Computer Science and Engineering- DevOps. 
+</template>
+</category>
+
+</aiml>

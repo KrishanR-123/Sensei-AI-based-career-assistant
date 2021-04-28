@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<category>
+  <pattern>I like to solve puzzles </pattern>
+  <template>So Your good in solving puzzles I see, you can maybe explore CS as a carrer option perhaps!!</template>
+</category>
+<category>
+  <pattern>Tell me more about CS</pattern>
+  <template>Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and 
+      software systems.Principal areas of study within Computer Science include artificial intelligence, computer systems and networks, security, 
+      database systems, human computer interaction, vision and graphics, numerical analysis, programming languages, 
+      software engineering, bioinformatics and theory of computing.
+  </template>
+</category>
+<category>
+  <pattern>How many fields does CS have ? </pattern>
+  <template>Different fields in CS include Internet of things(IoT), Graphics and Gaming (GG), Artificial Intelligence (AI), Cloud Computing and Business Analysis
+  </template>
+</category>
+<category>
+  <pattern>Iot</pattern>
+  <template>The Internet of things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the 
+  purpose of connecting and exchanging data with other devices and systems over the Internet.Things have evolved due to the convergence of multiple technologies, 
+  real-time analytics, machine learning, commodity sensors, and embedded systems. Traditional fields of embedded systems, wireless sensor networks, control systems, 
+  automation (including home and building automation), and others all contribute to enabling the Internet of things.
+  </template>
+</category>
+
+<category>
+  <pattern>GG</pattern>
+    <template>Computer Science with specialization in Graphics and Gaming to become a testing engineer, an application developer, 
+    support and test gaming applications or be a development engineer for gaming mobile apps.
+   </template>
+</category>
+
+<category>
+  <pattern>AI</pattern>
+    <template>Artificial intelligence (AI) is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically 
+    require human intelligence. AI is an interdisciplinary science with multiple approaches, but advancements in machine learning and deep learning are creating a 
+    paradigm shift in virtually every sector of the tech industry. 
+   </template>
+</category>
+
+<category>
+  <pattern>Artificial Intelligence</pattern>
+    <template>Artificial intelligence (AI) is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically 
+    require human intelligence. AI is an interdisciplinary science with multiple approaches, but advancements in machine learning and deep learning are creating a 
+    paradigm shift in virtually every sector of the tech industry. 
+   </template>
+</category>
+
+<category>
+  <pattern>CCVT</pattern>
+    <template>Cloud computing  and Virtualization is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and 
+    maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, 
+    on an as-needed basis from a cloud provider like Amazon Web Services (AWS). 
+   </template>
+</category>
+
+<category>
+  <pattern>CC</pattern>
+    <template>Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and 
+    maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, 
+    on an as-needed basis from a cloud provider like Amazon Web Services (AWS). 
+   </template>
+</category>
+
+<category>
+  <pattern>Buisness analytics</pattern>
+    <template>Business Analytics is a combination of Data Analytics, Business Intelligence and Computer Programming.
+    It is the science of analysing data to find out patterns that will be helpful in developing strategies. 
+    Its usage can be found in almost every industry.
+   </template>
+</category>
+
+<category>
+      <pattern>What is cs</pattern>
+      <template>
+         <srai>Tell me more about CS</srai>
+      </template>
+</category>
+
+<category>
+      <pattern>cs</pattern>
+      <template>
+         <srai>Tell me more about CS</srai>
+      </template>
+</category>
+
+<category>
+      <pattern>What is *</pattern>
+      <template>
+         <srai><star/></srai>
+      </template>
+</category>
+
+</aiml>
