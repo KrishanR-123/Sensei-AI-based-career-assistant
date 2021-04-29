@@ -27,3 +27,6 @@ as python is completely object oriented and offers varity of librabies and packa
 ### Uptill now Sensei looks something like this
 ![Output 1](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/1.jpg)
 ![Output 2](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/2.jpg)
+
+## Polishing our bot further
+Firstly we had to increase the dataset. We are using .aiml markup language to store our data.
