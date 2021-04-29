@@ -36,4 +36,4 @@ and Finally to bring Sensei to life we used Flask framework to connect backend t
 ### Fianlly Sensei is up and running
 ![Output 1](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/final%20output%201a.jpeg)
 ![Output 2](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/final%20output%202a.jpeg)
-
+![Output 3](https://github.com/KrishanR-123/Sensei-AI-based-career-assistant/blob/main/Output/final%20output%203a.jpg)
