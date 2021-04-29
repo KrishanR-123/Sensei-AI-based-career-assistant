@@ -30,3 +30,5 @@ as python is completely object oriented and offers varity of librabies and packa
 
 ## Polishing our bot further
 Firstly we had to increase the dataset. We are using .aiml markup language to store our data.
+Secondly we improved our machine learning models
+and Finally to bring Sensei to life we used Flask framework to connect backend to frontend, HTML 5 and CSS 3 for frontend
