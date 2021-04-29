@@ -1,8 +1,10 @@
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
-import json
+#import json
 import pickle
+import aiml
+
 
 import numpy as np
 from keras.models import Sequential
@@ -14,8 +16,10 @@ words=[]
 classes = []
 documents = []
 ignore_words = ['?', '!']
-data_file = open('intents.json').read()
-intents = json.loads(data_file)
+#data_file = open('intents.json').read()
+#intents = json.loads(data_file)
+intents = aiml.Kernel()
+intents.bootstrap(learnFiles="std-startup.aiml", commands="load aiml b")
 
 
 for intent in intents['intents']:
